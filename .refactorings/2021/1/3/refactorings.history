@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from project &apos;ContentModelsvalidation&apos;&#x0D;&#x0A;- Original project: &apos;ContentModelsvalidation&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     ERP_Results_23.12.2020_19.19_Run 1&#x0D;&#x0A;     ERP_Results_24.12.2020_08.23_Run 2&#x0D;&#x0A;     ERP_Results_24.12.2020_10.51_Run 3" description="Delete elements" element1="ERP_Results_24.12.2020_08.23_Run 2" element2="ERP_Results_24.12.2020_10.51_Run 3" element3="ERP_Results_23.12.2020_19.19_Run 1" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="3" stamp="1610450867765" subPackages="false" version="1.0"/>
+</session>
